@@ -1,4 +1,4 @@
-**Morphle** is tiny Blender add-on that creates an object containing shape keys of all selected objects verticies positions.
+**Morphle** is tiny Blender add-on that creates an object containing shape keys of all selected objects vertices positions.
 
 **Installation:**
 Simply download *Morphle.py* and install it in Blender: Edit -> Preferences -> Add-ons -> Install...
